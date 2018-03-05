@@ -1,13 +1,13 @@
-USE burgers_db;
+USE burgers_db; -- if thie is made locally
 
-INSERT INTO burgers (burger_name, createdAt, updatedAt)
+INSERT INTO Burgers (burger_name, createdAt, updatedAt)
 VALUES ('Terry Burger',NOW(), NOW());
 
-INSERT INTO burgers (burger_name, createdAt, updatedAt)
+INSERT INTO Burgers (burger_name, createdAt, updatedAt)
 VALUES ('Angus Burger', NOW(), NOW());
 
-INSERT INTO burgers (burger_name, createdAt, updatedAt)
+INSERT INTO Burgers (burger_name, createdAt, updatedAt)
 VALUES ('Kimchi Burger',NOW(), NOW());
 
-INSERT INTO burgers (burger_name, createdAt, updatedAt)
+INSERT INTO Burgers (burger_name, createdAt, updatedAt)
 VALUES ('Rice Burger', NOW(), NOW());
