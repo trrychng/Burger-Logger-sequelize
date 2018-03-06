@@ -5,7 +5,7 @@ Setup Sequelized with
 
 ![Alt Text](/burgerlogsequelized.gif)
 
-[link text itself]: burgerlog2018seq.herokuapp.com
+<burgerlog2018seq.herokuapp.com>
 
 then
 
