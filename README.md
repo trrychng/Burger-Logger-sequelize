@@ -1,12 +1,11 @@
 # Burger-Logger
 
 
-Setup MySQL with 
+Setup Sequelized with 
 
-./db/schema.sql
+![Alt Text](/burgerlogsequelized.gif)
 
-./db/seeds.sql
-
+[link text itself]: burgerlog2018seq.herokuapp.com
 
 then
 
